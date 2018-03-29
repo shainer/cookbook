@@ -1,0 +1,6 @@
+[package]
+name = "cookbook"
+version = "0.1.0"
+authors = ["Lisa Vitolo <syn.shainer@gmail.com>"]
+
+[dependencies]
